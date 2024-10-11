@@ -1,0 +1,2 @@
+This is my first html project. I will be creating a recipe website where the homepage contains links to recipes that I will write in. After this, I will have hopefully demonstrated basic level html skills like creating the home (index) page, using links to take me to different tabs, hopefully structuring the web pages currectly with well places texts, and finding ways to personalize a website (though very limited).
+
